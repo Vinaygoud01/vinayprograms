@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Sample Suite">
+	<test name="testing">
+	<groups>
+			<run>
+				<include name="Sanity" />
+				<exclude name="Regression" />
+			</run>
+		</groups>
+		
+		<classes>
+			<class name="TestngFramewokDemo.TestngGroupDemo1" />
+			<class name="TestngFramewokDemo.TestngAnnotationDemo1" />
+
+			<class name="TestngFramewokDemo.TestngAnnotationDemo2" />
+			<class name="TestngFramewokDemo.TestngAnnotationDemo3" />
+
+			//we can write multiple classes
+		</classes>
+	</test>
+</suite>

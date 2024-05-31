@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+    <classes>
+      <class name="WebElementsDemo.AlertDemo1"/>
+       <class name="WebElementsDemo.AlertDemo2"/>
+        <class name="WebElementsDemo.AlertDemo3"/>
+        
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

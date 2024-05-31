@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Sample Suite">
+  <test name="testing">
+  	
+    <classes>
+           <class name="WebElementsDemo.AlertDemo1" /> 
+       <class name="WebElementsDemo.AlertDemo2" /> 
+       <class name="WebElementsDemo.AlertDemo3" />  
+       <class name="WebElementsDemo.ButtonDemo1" />  
+       <class name="WebElementsDemo.DragandDropDemo1" />
+       <class name="WebElementsDemo.BrokenLinkDemo1" />  
+         
+  //we can write multiple classes
+    </classes>
+  </test>
+</suite>
