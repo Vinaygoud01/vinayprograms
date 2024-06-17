@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test1">
+    <classes>
+      <class name="TestngFramewokDemo.TestngAnnotationDemo1"/>
+       <class name="TestngFramewokDemo.TestngAnnotationDemo2"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="Test2">
+    <classes>
+      <class name="TestngFramewokDemo.TestngAnnotationDemo3"/>
+       <class name="TestngFramewokDemo.TestngAnnotationDemo4"/>
+    </classes> 
+    </test> <!-- Test -->
+   
+    </suite> <!-- Suite -->

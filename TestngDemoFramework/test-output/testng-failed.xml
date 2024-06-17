@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="WebElementsDemo.AlertDemoAssignment5">
+      <class name="fileUpload.AutoItDemo2">
         <methods>
-          <include name="AlertassignmentClick5"/>
+          <include name="fileuploadtest"/>
         </methods>
-      </class> <!-- WebElementsDemo.AlertDemoAssignment5 -->
+      </class> <!-- fileUpload.AutoItDemo2 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -45,7 +45,7 @@ public class JavaScript {
 		
 	//	Scrooll Up:
 	//	js.executeScript("window.scrollBy(0,-500);");   //this is for scrolldown to perticular loaction
-	//	js.executeScript("window.scrollBy(0,-(document.body.scrollHeight))"); // this will scrolldown to end of the page
+	//	js.executeScript("window.scrollBy(0,-(document.body.scrollHeight))"); // this will scrollup to the page
 		
 	//Highlight:
 	//	js.executeScript("arguments[0].setAttribute('style', 'border: 2px solid red;');", element);

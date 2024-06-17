@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="20492" started-at="2024-05-31T05:32:20Z" finished-at="2024-05-31T05:32:41Z">
+  <suite name="Default suite" duration-ms="5412" started-at="2024-06-05T09:32:33Z" finished-at="2024-06-05T09:32:38Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="20492" started-at="2024-05-31T05:32:20Z" finished-at="2024-05-31T05:32:41Z">
-      <class name="WebElementsDemo.WindowhandleDemo3">
-        <test-method status="PASS" signature="Windowhandle3()[pri:0, instance:WebElementsDemo.WindowhandleDemo3@7c30a502]" name="Windowhandle3" duration-ms="20461" started-at="2024-05-31T11:02:20Z" finished-at="2024-05-31T11:02:41Z">
+    <test name="Default test" duration-ms="5412" started-at="2024-06-05T09:32:33Z" finished-at="2024-06-05T09:32:38Z">
+      <class name="fileUpload.AutoItDemo1">
+        <test-method status="PASS" signature="fileuploadtest()[pri:0, instance:fileUpload.AutoItDemo1@7c30a502]" name="fileuploadtest" duration-ms="5382" started-at="2024-06-05T15:02:33Z" finished-at="2024-06-05T15:02:38Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Windowhandle3 -->
-      </class> <!-- WebElementsDemo.WindowhandleDemo3 -->
+        </test-method> <!-- fileuploadtest -->
+      </class> <!-- fileUpload.AutoItDemo1 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
